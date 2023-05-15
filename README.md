@@ -1,16 +1,21 @@
-# Tienda de Discos
+## Aplicación de venta y promociones de discos en una tienda
+## Descripción del Problema
+En su labor como programador de software, ha sido elegido para el desarrollo de una aplicación que necesita un propietario de una tienda de discos. El propietario desea expandir su alcance mediante una aplicación que permita mantener registros de usuarios, contraseñas, cuentas y compras de discos para mantener a los clientes recurrentes.
 
-Este es un programa en Java que simula una tienda de discos. Permite al usuario ingresar el número de discos que desea comprar, junto con su título, artista y precio. Luego muestra una factura con los detalles de cada disco y calcula el total a pagar.
+## Aclaraciones:
 
-## Requisitos
+Se supondrá que la aplicación se requiere exclusivamente para la venta y promociones de la tienda de discos al comprar cierta cantidad de discos.
+Con fines de simplicidad del ejemplo, no se contempla el almacenamiento persistente de los datos.
+No se realizará validación ni se verificará la calidad de los datos ingresados.
 
-- Java Development Kit (JDK) instalado en tu sistema.
-- Un entorno de desarrollo integrado (IDE) o un compilador de Java.
+## Aclaraciones adicionales
+La aplicación se centrará únicamente en la venta y promoción de discos en la tienda, no contemplando otras funcionalidades relacionadas con la gestión de inventario, proveedores, etc.
+No se implementará un sistema de almacenamiento persistente de los datos, por lo que la información se perderá al finalizar la ejecución de la aplicación.
+La aplicación no realizará validación de los datos ingresados por el usuario, por lo que se asume que los datos ingresados serán correctos y coherentes.
+La interfaz de usuario y la interacción con la aplicación se realizarán de forma simplificada, enfocándose en la lógica de negocio principal.
 
-## Instrucciones de Uso
+## JIRA
+![JIRA](img/JIRA%20B.png)
 
-1. Clona este repositorio o descarga los archivos del programa.
-2. Abre el proyecto en tu IDE o compila los archivos Java en tu línea de comandos.
-3. Ejecuta el programa.
-4. Sigue las instrucciones en pantalla para ingresar los datos de los discos.
-5. Al finalizar, se mostrará la factura con los detalles de los discos y el total a pagar.
+## Caso
+![CASO](img/Caso.png)
