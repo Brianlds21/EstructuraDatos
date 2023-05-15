@@ -15,7 +15,8 @@ La aplicación no realizará validación de los datos ingresados por el usuario,
 La interfaz de usuario y la interacción con la aplicación se realizarán de forma simplificada, enfocándose en la lógica de negocio principal.
 
 ## JIRA
-![JIRA](JIRA B.png)
+![JIRA B](https://github.com/Brianlds21/EstructuraDatos/assets/133600928/38452a71-87bd-4aac-8caa-c94e3d13ff45)
+
 
 ## Caso
 ![CASO](Caso.png)
