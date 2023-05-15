@@ -15,7 +15,7 @@ La aplicación no realizará validación de los datos ingresados por el usuario,
 La interfaz de usuario y la interacción con la aplicación se realizarán de forma simplificada, enfocándose en la lógica de negocio principal.
 
 ## JIRA
-![JIRA](JIRA%20B.png)
+![JIRA](JIRA B.png)
 
 ## Caso
 ![CASO](Caso.png)
